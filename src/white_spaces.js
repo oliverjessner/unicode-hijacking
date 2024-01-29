@@ -1,0 +1,14 @@
+ // en quad (U+2000)
+ // em quad (U+2001)
+ // en space (U+2002)
+ // em space (U+2003)
+ // three-per-em space (U+2004)
+ // four-per-em space (U+2005)
+ // six-per-em space (U+2006)
+ // figure space (U+2007)
+ // punctuation space (U+2008)
+ // thin space (U+2009)
+ // hair space (U+200A)
+ // line separator (U+2028)
+ // paragraph separator (U+2029)
+ // narrow no-break space (U+202F)
